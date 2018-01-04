@@ -1,5 +1,10 @@
+@font-face {
+    font-family: "Press Start 2p";
+    src: url("PressStart2p-Regular.ttf");
+
+}
 #title {
-  font-family: 'Press Start 2P';
+  font-family: "Press Start 2P";
   color: black;
 }
 
