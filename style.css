@@ -1,6 +1,12 @@
 @font-face {
     font-family: "Press Start 2p";
     src: url("PressStart2p-Regular.ttf");
+    src:url('PressStart2p-Regular.ttf?#iefix') format('embedded-opentype'),
+            url('PressStart2p-Regular.woff') format('woff'),
+            url('PressStart2p-Regular.ttf') format('truetype'),
+            url('PressStart2p-Regular.svg#Press Start 2p') format('svg');
+    font-weight:normal;
+    font-style:normal;
 
 }
 #title {
