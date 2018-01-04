@@ -1,10 +1,7 @@
-h1 {
-  color: red;
+#Title {
+  font-family: 'Press Start 2P';
 }
 
-.main {
-  background-color: blue;
-  text-align: center;
-  background-size: cover;
-  font-family: 'Bungee Shade';
+.navbar-nav {
+  text-align: left;
 }
