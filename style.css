@@ -2,6 +2,11 @@
 #title {
   font-family: "Press Start 2P";
   color: black;
+  text-shadow: 1px 1px white;
+}
+
+body {
+  background-color: lightSlateGray;
 }
 
 
